@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Dragon</string>
+    <string name="a11y_label">Home Dragon icon finder</string>
+    <string name="a11y_desc">Reads the position of icons on your home screen so the dragon can sit on them and breathe fire at them. It does not read or store any text, messages or passwords.</string>
+</resources>
